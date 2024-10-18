@@ -1,8 +1,8 @@
-qlover:
-  name: "Quarkus Lover"
-  email: "qlover@quarkuslover.io"
+quarkusio:
+  name: "QuarkusIO"
+  email: "quarkus@quarkus.io"
   emailhash: "6e9f555c0f97757a625cd2e9e79a8255"
-  job_title: Senior Software Engineer
+  job_title: Supersonic Subatomic Java Framework
   twitter: "quarkusio"
   bio: |
     Quarkus is my go-to framework for making Java development not only faster but more fun. 
